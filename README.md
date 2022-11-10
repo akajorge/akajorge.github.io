@@ -1,2 +1,2 @@
 # akajorge.github.io
-Intentando publicar a miña web
+Apruébame porfa lloré mucho haciendo lo que sea esto

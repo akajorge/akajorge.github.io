@@ -1,0 +1,104 @@
+body {
+    background-color: rgb(88, 88, 86);
+    font-family: 'Noto Sans Vai', sans-serif;
+}
+
+header {
+    background-color: rgb(146, 109, 163);
+    margin: -8px;
+}
+
+svg {
+    margin: 5px;
+    margin-bottom: -5px;
+}
+
+.barrasup {
+    float: right;
+    margin-right: 10px;
+}
+
+.titulo {
+    font-size: 25px;
+    margin-top: 20px;
+    color: #fbe7ff;
+    padding-right: 1050px;
+    font-family: 'Noto Serif Telugu', serif;
+}
+
+.subtitulo {
+    margin-top: -20px;
+    margin-left: 80px;
+    font-size: 20px;
+    color: #100213;
+    font-family: 'Noto Sans Vai', sans-serif;
+}
+
+.Avion {
+    font-size: 16px;
+}
+
+h3 {
+    margin-top: 120px;
+    margin-right: 670px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.parrafo {
+    text-align: justify;
+    margin-top: 60px;
+    margin-right: 25px;
+    margin-left: -25px;
+    font-size: 16px;
+}
+
+img {
+    float: left;
+    margin-bottom: 50px;
+    margin-left: -5px;
+    margin-top: 9px;
+    margin-right: 50px;
+}
+
+a:link {
+    color: rgb(4, 4, 36);
+}
+
+a:visited {
+    color: rgb(48, 31, 54);
+}
+
+a:hover {
+    color: rgb(255, 122, 233);
+}
+
+table {
+    background-color: rgb(146, 109, 163);
+    width: 90%;
+    text-align: center;
+    font-size: 15px;
+    margin: auto;
+    margin-top: 80px;
+
+    padding: 20px;
+    padding-left: 450px;
+    padding-right: 450px;
+
+    font-family: 'Noto Serif Telugu', serif;
+}
+
+hr {
+    border: 2px solid rgb(58, 49, 100);
+    margin: 3px;
+    margin-top: 16px;
+}
+footer {
+    margin: auto;
+    margin-right: 7px;
+    text-align: right;
+}
+
+.irrocho {
+    margin-top: -10px;
+}

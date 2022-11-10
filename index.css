@@ -1,0 +1,158 @@
+body {
+    background-color: rgb(88, 88, 86);
+    font-family: 'Noto Sans Vai', sans-serif;
+}
+
+header {
+    background-color: rgb(146, 109, 163);
+    margin: -8px;
+}
+
+svg {
+    margin: 5px;
+    margin-bottom: -5px;
+}
+
+.barrasup {
+    float: right;
+    margin-right: 10px;
+}
+
+.titulo {
+    font-size: 25px;
+    margin-top: 20px;
+    color: #fbe7ff;
+    padding-right: 1050px;
+    font-family: 'Noto Serif Telugu', serif;
+}
+
+.subtitulo {
+    margin-top: -20px;
+    margin-left: 80px;
+    font-size: 20px;
+    color: #100213;
+    font-family: 'Noto Sans Vai', sans-serif;
+}
+
+.Avion {
+    font-size: 16px;
+}
+
+/* Todo isto é só a barra morada de arriba, é igual en todas as páxinas */
+
+form {
+    background-color: rgba(133, 54, 127, 0.377);
+    margin-top: 30px;
+    text-align: center;
+    padding: 25px;
+}
+
+select {
+    border-radius: 2px;
+    margin-right: 40px;
+    width: 115px;
+    height: 30px;
+    padding-left: 5px;
+    background-color: rgb(133, 113, 180);
+}
+
+input {
+    height: 30px;
+    width: 110px;
+    border-radius: 3px;
+    border-width: 1px;
+    margin-right: 40px;
+    border-color: rgb(175, 175, 175);
+    padding-left: 7px;
+    padding-right: 7px;
+    background-color: rgb(133, 113, 180);
+}
+
+.botoncin {
+    margin-left: 85px;
+    width: 300px;
+    text-align: center;
+    height: 60px;
+    font-size: 16px;
+    font-weight: bold;
+    border-width: 7px;
+    border-color: rgba(157, 81, 228, 0.377);
+
+    background-color: rgba(211, 166, 253, 0.767);
+    background-repeat: no-repeat;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
+
+table {
+    margin: auto;
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th{
+    padding-bottom: 20px;
+    font-size: 18px;
+    padding-right: 110px;
+}
+
+td{
+    font-weight: bold;
+    padding: 8px;
+}
+
+a:link {
+    color: rgb(4, 4, 36);
+}
+
+a:visited {
+    color: rgb(48, 31, 54);
+}
+
+a:hover {
+    color: rgb(255, 122, 233);
+}
+
+figure{
+
+    margin-top: -3px;
+}
+
+.fotolink{
+    text-decoration:none;
+}
+
+figcaption{
+    font-size: 20px;
+    background-color: rgba(158, 144, 172, 0.753);
+    color: rgb(231, 223, 235);
+    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: normal;
+    text-align: left;
+}
+
+.info{
+    font-size: 13px;
+}
+
+hr {
+    border: 2px solid rgb(58, 49, 100);
+    margin: 3px;
+    margin-top: 6px;
+}
+
+footer {
+    margin: auto;
+    margin-right: 7px;
+    text-align: right;
+}
+
+.irocho{
+    margin-top: -10px;
+}
